@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Serdest Gün
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning CNNs
+- 💞️ I’m looking to collaborate on deep learning algorithms
+- 📫 How to reach me serdestgun@gmail.com
