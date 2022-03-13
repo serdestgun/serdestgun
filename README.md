@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning CNNs
 - 💞️ I’m looking to collaborate on deep learning algorithms
 - 📫 How to reach me [via mail](serdestgun@gmail.com)
-- My [Hackerrank profile](https://www.hackerrank.com/serdestgun)
-- My [Kaggle profile](https://www.kaggle.com/serdestgn)
+- [My Hackerrank profile](https://www.hackerrank.com/serdestgun)
+- [My Kaggle profile](https://www.kaggle.com/serdestgn)
