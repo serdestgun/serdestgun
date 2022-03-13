@@ -5,3 +5,4 @@
 - 📫 How to reach me [via mail](serdestgun@gmail.com)
 - [My Hackerrank profile](https://www.hackerrank.com/serdestgun)
 - [My Kaggle profile](https://www.kaggle.com/serdestgn)
+- [My LinkedIn profile](https://www.linkedin.com/in/serdest-gun/)
