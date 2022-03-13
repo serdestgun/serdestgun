@@ -3,3 +3,6 @@
 - 🌱 I’m currently learning CNNs
 - 💞️ I’m looking to collaborate on deep learning algorithms
 - 📫 How to reach me serdestgun@gmail.com
+- 
+- [Hackerrank](https://www.hackerrank.com/serdestgun)
+- [Kaggle](https://www.kaggle.com/serdestgn)
