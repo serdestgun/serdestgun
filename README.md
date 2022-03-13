@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning CNNs
 - 💞️ I’m looking to collaborate on deep learning algorithms
-- 📫 How to reach me serdestgun@gmail.com
-- 
-- [Hackerrank](https://www.hackerrank.com/serdestgun)
-- [Kaggle](https://www.kaggle.com/serdestgn)
+- 📫 How to reach me [via mail](serdestgun@gmail.com)
+- My [Hackerrank profile](https://www.hackerrank.com/serdestgun)
+- My [Kaggle profile](https://www.kaggle.com/serdestgn)
